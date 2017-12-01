@@ -22,3 +22,8 @@ select * from PS_UOW_CC_COMP_VM;
 
 
 select * from PS_B2_SYNC_ENV;
+
+
+/*PS_PTIASPPKGCCL PUM CCL Table*/
+
+select * from PS_PTIASPPKGCCL@H92LCM32;
