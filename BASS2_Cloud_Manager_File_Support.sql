@@ -27,3 +27,8 @@ select * from PS_B2_SYNC_ENV;
 /*PS_PTIASPPKGCCL PUM CCL Table*/
 
 select * from PS_PTIASPPKGCCL@H92LCM32;
+
+select * from PS_
+
+
+
